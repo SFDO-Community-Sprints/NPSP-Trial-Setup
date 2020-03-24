@@ -5,10 +5,10 @@ Open Source Community Sprint project focused on documenting a list of recommende
 What is the name of your project?
 
 ### Project Theme
-How would you categorize your project? For example, are you creating an app and/or component, writing documentation, focusing on the community ecosystem, making videos, etc.
+How would you categorize your project? For example, are you creating an app and/or component, writing documentation, focusing on the community ecosystem, making videos, etc. [Learn how](https://github.com/SFDO-Community-Sprints/Welcome/wiki/SFDO-Community-Sprints-Topic-Overview) this information loops back into Sprint project work!
 
 ### Project Vertical
-How would you define the audience for your project? For example, nonprofits, education, or everyone.
+How would you define the audience for your project? For example, nonprofits, education, or everyone. [Learn how](https://github.com/SFDO-Community-Sprints/Welcome/wiki/SFDO-Community-Sprints-Topic-Overview) this information loops back into Sprint project work!
 
 ### Hub Group Link
 We encourage you to bring this project conversation to the Power of us Hub! Please include a link to your Hub group here so others can find you and continue the conversation later.
