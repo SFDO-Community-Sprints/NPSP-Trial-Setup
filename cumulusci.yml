@@ -1,0 +1,31 @@
+minimum_cumulusci_version: '3.9.1'
+project:
+    name: NPSP-Trial-Setup
+    package:
+        name:  NPSP Trial Setup
+        api_version: '48.0'
+    dependencies:
+        - github: 'https://github.com/SalesforceFoundation/NPSP'
+    source_format: sfdx
+
+sources:
+    npsp:
+        github: https://github.com/SalesforceFoundation/NPSP
+
+flows:
+    dependencies:
+        steps:
+            3:
+                flow: npsp:config_managed
+
+tasks:
+    robot:
+        options:
+            suites: robot/NPSP-Trial-Setup/tests
+            options:
+                outputdir: robot/NPSP-Trial-Setup/results
+
+    robot_testdoc:
+        options:
+            path: robot/NPSP-Trial-Setup/tests
+            output: robot/NPSP-Trial-Setup/doc/NPSP-Trial-Setup_tests.html
