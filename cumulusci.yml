@@ -18,6 +18,11 @@ flows:
             3:
                 flow: npsp:config_managed
 
+orgs:
+    scratch:
+        trial:
+            config_file: orgs/trial.json
+
 tasks:
     robot:
         options:
