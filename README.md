@@ -15,9 +15,9 @@ https://powerofus.force.com/s/group/0F91E000000brOtSAI/npsp-trial-setup
 
 ### Project Team
 Help us give you the thanks you deserve and ensure future contributors know who to contact if they have questions! Please ensure that all contributing members of the team are included.
-* Team Leader(s): 
-* GitHub Scribe(s): 
-* List of all Contributors:
+* Team Leader(s): TJ Warfield and Stephanie Zietz
+* Note Taker - Carolyn Tweedy - https://quip.com/dk9wAE0SWGZJ/Trial-Org-Notes
+* List of all Contributors: see quip
 
 ### Project Vision (Please make this your first task as a team)
 
