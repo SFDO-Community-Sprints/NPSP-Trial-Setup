@@ -9,7 +9,7 @@ NPSP Trial Org Setup
 Review, assess, and update the NPSP Trial org defaults. 
 
 ### Project Vertical
-How would you define the audience for your project? For example, nonprofits, education, or everyone. [Learn how](https://github.com/SFDO-Community-Sprints/Welcome/wiki/SFDO-Community-Sprints-Topic-Overview) this information loops back into Sprint project work!
+vertical-nonprofit
 
 ### Hub Group Link
 https://powerofus.force.com/s/group/0F91E000000brOtSAI/npsp-trial-setup
