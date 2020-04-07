@@ -6,7 +6,7 @@ Open Source Community Sprint project focused on documenting a list of recommende
 NPSP Trial Org Setup
 
 ### Project Theme
-Review, assess, and update the NPSP Trial org defaults. 
+theme-packaged-app-or-component
 
 ### Project Vertical
 vertical-nonprofit
