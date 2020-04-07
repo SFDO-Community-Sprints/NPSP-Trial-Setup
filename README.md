@@ -3,11 +3,13 @@ Open Source Community Sprint project focused on documenting a list of recommende
 
 ### Project Name
 What is the name of your project?
-NPSP Trial Org Setup
+
+* NPSP Trial Org Setup
 
 ### Project Theme
 How would you categorize your project? For example, are you creating an app and/or component, writing documentation, focusing on the community ecosystem, making videos, etc. [Learn how](https://github.com/SFDO-Community-Sprints/Welcome/wiki/SFDO-Community-Sprints-Topic-Overview) this information loops back into Sprint project work!
-Review, assess, and update the NPSP Trial org defaults. 
+
+* Review, assess, and update the NPSP Trial org defaults. 
 
 ### Project Vertical
 How would you define the audience for your project? For example, nonprofits, education, or everyone. [Learn how](https://github.com/SFDO-Community-Sprints/Welcome/wiki/SFDO-Community-Sprints-Topic-Overview) this information loops back into Sprint project work!
