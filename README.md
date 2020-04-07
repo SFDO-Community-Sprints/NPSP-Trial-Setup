@@ -30,7 +30,11 @@ https://powerofus.force.com/s/group/0F91E000000brOtSAI/npsp-trial-setup
 
 ### Project Team Accomplishments
 
-* https://salesforce.quip.com/dk9wAE0SWGZJ
+* https://salesforce.quip.com/dk9wAE0SWGZJ#AEfACAF95Pn
+* https://salesforce.quip.com/dk9wAE0SWGZJ#AEfACA0gD7D
+* https://salesforce.quip.com/dk9wAE0SWGZJ#AEfACAF0GHk
+* https://salesforce.quip.com/dk9wAE0SWGZJ#AEfACAkJeXv
+* https://salesforce.quip.com/dk9wAE0SWGZJ#AEfACA06519
 
 ### Future Contributions
 
