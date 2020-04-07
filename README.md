@@ -34,13 +34,14 @@ Use these questions to form a clear vision statement of 3-5 sentences (rough gui
 
 Having trouble? Salesforce.org staff and your fellow sprinters are here to help! Use one of your table's request signs and/or post in the Quip Chat to seek help, and we'll pop by.
 
-https://salesforce.quip.com/dk9wAE0SWGZJ#AEfACAN11Ox
+* Define the Crawl/Walk/Run phases for the NPSP Trial. Consider what trial defaults are currently in place and how we might modify these configurations to make onboarding more seamless for new customers 
+* https://salesforce.quip.com/dk9wAE0SWGZJ#AEfACAN11Ox
 
 ### Project Resources (It's ok if you'd prefer to type all the things in Google docs, Quip, or your word processor of choice, just please make sure you include links to your work here in Github. We need a source of truth, and for now that's here in GitHub.)
 * Indicate if there are any existing Hub Ideas, or product Issues/Bugs that you're solving for. 
 * Where can we find additional information on your project? Ie. do you have supporting code in another Repo, do you have documentation in Google, your repo's Wiki, etc.? Be sure to include (or at least links to) all supporting material here. If it's not in your project Repo, it will get lost.
 
-https://salesforce.quip.com/dk9wAE0SWGZJ
+* https://salesforce.quip.com/dk9wAE0SWGZJ
 
 ### Project Team Accomplishments
 What did the Project Team get done during the Sprint?
